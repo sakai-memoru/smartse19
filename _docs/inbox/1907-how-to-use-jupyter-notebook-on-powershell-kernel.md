@@ -1,14 +1,13 @@
-1907-how-to-use-jupyter-notebook-on-powershell-kernel
-
 # 1907-how-to-use-jupyter-notebook-on-powershell-kernel
 
 ## overview
+
 - Use powershell kernel on jupyter notebook.
 
 ## reference
+
 - jupyter-powershell GitHub repository
     - https://github.com/vors/jupyter-powershell
-
 
 ## log
 
@@ -47,3 +46,4 @@ C:\ProgramData\Anaconda37\lib\site-packages\powershell_kernel\install.py:54: Dep
 
 
 [![Image from Gyazo](https://i.gyazo.com/13901575cbe6994630153e8eebbdf06f.png)](https://gyazo.com/13901575cbe6994630153e8eebbdf06f)
+
