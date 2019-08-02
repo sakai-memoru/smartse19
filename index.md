@@ -13,7 +13,7 @@
 ## docs
 
 ### powershell
-- [./_docs/inbox/1907-how-to-use-jupyter-notebook-on-powershell-kernel.md](./_docs/inbox/1907-how-to-use-jupyter-notebook-on-powershell-kernel.md)
+- [./docs/inbox/1907-how-to-use-jupyter-notebook-on-powershell-kernel.md](./docs/inbox/1907-how-to-use-jupyter-notebook-on-powershell-kernel.md)
 
 
 
