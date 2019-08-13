@@ -1,0 +1,16 @@
+{
+  "name": "sse19",
+  "version": "1.0.0",
+  "description": "- jupter notebook on powershell kernel",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "csv": "^5.1.1",
+    "csvtojson": "^2.0.10",
+    "json2csv": "^4.5.2"
+  }
+}
