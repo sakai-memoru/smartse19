@@ -1,5 +1,5 @@
 ﻿[gimmick:theme](github)
-# Memoru
+# Mitz
 
 [TOP](README.md)
 
